@@ -1,0 +1,7 @@
+C:\Users\Carlos Henrique\source\repos\LavaCar\LavaCar\bin\Debug\LavaCar.exe.config
+C:\Users\Carlos Henrique\source\repos\LavaCar\LavaCar\bin\Debug\LavaCar.exe
+C:\Users\Carlos Henrique\source\repos\LavaCar\LavaCar\bin\Debug\LavaCar.pdb
+C:\Users\Carlos Henrique\source\repos\LavaCar\LavaCar\obj\Debug\LavaCar.csprojAssemblyReference.cache
+C:\Users\Carlos Henrique\source\repos\LavaCar\LavaCar\obj\Debug\LavaCar.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Henrique\source\repos\LavaCar\LavaCar\obj\Debug\LavaCar.exe
+C:\Users\Carlos Henrique\source\repos\LavaCar\LavaCar\obj\Debug\LavaCar.pdb
